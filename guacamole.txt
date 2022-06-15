@@ -3,3 +3,5 @@
 	- lemon
 	- salt
 # Instructions
+
+Peel avocado, squeeze lemon, add salt, mash and mix
