@@ -2,6 +2,7 @@
 	- avocado
 	- lime
 	- salt
+	- pepper
 # Instructions
 
 Peel avocado, squeeze lime, add salt, mash and mix
